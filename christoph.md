@@ -10,7 +10,7 @@ Hallo zusammen
 
 
 
-Ich heisse Christoph Pfeil, bin 26 Jahre alt und komme aus Südtirol. Ich lebe seit 7 Jahren in der Schweiz und studiere an der ETH Umweltnaturwissenschaften. Soweit zu den Rahmenbedingungen. :) 
+Ich heisse Christoph [...], bin 26 Jahre alt und komme aus Südtirol. Ich lebe seit 7 Jahren in der Schweiz und studiere an der ETH Umweltnaturwissenschaften. Soweit zu den Rahmenbedingungen. :) 
 
 
 

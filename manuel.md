@@ -6,7 +6,7 @@ icon: fa-male
 order: 11
 ---
 
-Ich heisse Manuel Bigler und bin 21 Jahre alt. Ich komme aus der Region Bern, wobei ich auch schon in Kopenhagen gelebt habe. Nach meiner Lehre als Elektroniker habe ich Zivildienst geleistet und nun die Passerelle absolviert. Im kommenden Herbstsemster beginne ich mit dem Umweltnaturwissenschaften Studium.
+Ich heisse Manuel [...] und bin 21 Jahre alt. Ich komme aus der Region Bern, wobei ich auch schon in Kopenhagen gelebt habe. Nach meiner Lehre als Elektroniker habe ich Zivildienst geleistet und nun die Passerelle absolviert. Im kommenden Herbstsemster beginne ich mit dem Umweltnaturwissenschaften Studium.
 Ich bin WG-erprobt (2 Jahre) und ordentlich. Ich koche sehr gerne und schätze ein gesseliges WG-Leben.
 Das Hunzikerareal spricht mich als Wohnort sehr an. Die Idee eines lebendigen Quartiers indem Synergien genutzt werden und die 2000-Watt Vision gefällt mir.
 Gerne möchte ich für eine Besichtigung vorbeikommmen und vor allem euch kennenlernen.
