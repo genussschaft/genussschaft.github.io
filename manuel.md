@@ -1,6 +1,6 @@
 ---
 title: Manuel
-subtitle: Angeheder Bachelor-Student in Umweltnaturwissenschaften, früher Elektroniker
+subtitle: Angehender Bachelor-Student in Umweltnaturwissenschaften, früher Elektroniker
 layout: "page"
 icon: fa-male
 order: 11

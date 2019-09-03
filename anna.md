@@ -1,6 +1,6 @@
 ---
 title: Anna
-subtitle: Master-Studentin in Ökologie an der ETH
+subtitle: Angehende Master-Studentin in Ökologie an der ETH
 layout: "page"
 icon: fa-female
 order: 3
