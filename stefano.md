@@ -4,6 +4,7 @@ subtitle: Software-Entwickler für autonome Fahrzeuge
 layout: "page"
 icon: fa-male
 order: 15
+comments: true
 ---
 
 Hi Naoki, 

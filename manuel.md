@@ -4,6 +4,7 @@ subtitle: Angehender Bachelor-Student in Umweltnaturwissenschaften, früher Elek
 layout: "page"
 icon: fa-male
 order: 11
+comments: true
 ---
 
 Ich heisse Manuel [...] und bin 21 Jahre alt. Ich komme aus der Region Bern, wobei ich auch schon in Kopenhagen gelebt habe. Nach meiner Lehre als Elektroniker habe ich Zivildienst geleistet und nun die Passerelle absolviert. Im kommenden Herbstsemster beginne ich mit dem Umweltnaturwissenschaften Studium.

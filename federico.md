@@ -4,6 +4,7 @@ subtitle: ETH-Postdoc im Bereich Schutz des Amazonas
 layout: "page"
 icon: fa-male
 order: 8
+comments: true
 ---
 
 Hi beautiful people! 

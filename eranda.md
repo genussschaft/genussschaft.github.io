@@ -4,6 +4,7 @@ subtitle: Angehender Master-Student in Neural Systems and Computing an der UZH
 layout: "page"
 icon: fa-male
 order: 7
+comments: true
 ---
 
 Hi Naoki, 

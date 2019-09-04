@@ -4,6 +4,7 @@ subtitle: Angehende Studentin in Lerntherapeutin, früher Geologin
 layout: "page"
 icon: fa-female
 order: 17
+comments: true
 ---
 
 Hallo zusammen

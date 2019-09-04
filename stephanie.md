@@ -4,6 +4,7 @@ subtitle: Kommunikationsfachfrau mit Soziologie-Background
 layout: "page"
 icon: fa-female
 order: 16
+comments: true
 ---
 
 Hallo Zämä

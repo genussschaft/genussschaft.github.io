@@ -4,6 +4,7 @@ subtitle: Master-Student in Materialwissenschaften an der UZH
 layout: "page"
 icon: fa-male
 order: 6
+comments: true
 ---
 
 Hello!

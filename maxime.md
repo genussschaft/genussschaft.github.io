@@ -4,6 +4,7 @@ subtitle: Kaufmännischer Lehrling bei Pfizer
 layout: "page"
 icon: fa-male
 order: 13
+comments: true
 ---
 
 Hallo Naoki 

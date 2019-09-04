@@ -4,6 +4,7 @@ subtitle: Elektro-3Rad-Kurier
 layout: "page"
 icon: fa-male
 order: 12
+comments: true
 ---
 
 Hallo Naoki 

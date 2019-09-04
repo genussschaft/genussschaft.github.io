@@ -4,6 +4,7 @@ subtitle: Angehende ETH-Studentin in Chemie-Ingenieurwesen
 layout: "page"
 icon: fa-female
 order: 1
+comments: true
 ---
 
 Hallo! 

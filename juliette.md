@@ -4,6 +4,7 @@ subtitle: Angehende Bachelor-Studentin in Musikwissenschaften und BWL an der UZH
 layout: "page"
 icon: fa-female
 order: 10
+comments: true
 ---
 
 Mein Name ist Juliette, ich komme aus Liechtenstein, bin 19 Jahre alt und fange im September an Musikwissenschaften und BWL an der UZH zu studieren. Ich interessiere mich für Musik, Mode und Kunst, bin Vegetarierin und liebe Katzen. Bin gerne zuhause, aber gehe auch gerne mit Freunden raus. Ich würde mich sehr freuen, wenn ich das Zimmer anschauen kommen könnte. 

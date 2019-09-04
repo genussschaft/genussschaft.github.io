@@ -4,6 +4,7 @@ subtitle: Künstlerin mit Nebenjob bei Jugendherberge
 layout: "page"
 icon: fa-female
 order: 10
+comments: true
 ---
 
 Was mich so bewegt so recht vieles die Kunst, Texte, spannende Gespräche, Beziehungen, Menschen, Musik, Arthouse und Experimental Filme, lange Reisen, Humor. 
