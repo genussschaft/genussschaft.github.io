@@ -9,7 +9,7 @@ comments: true
 
 Hallo Zusammen,
 ja ich interessiere mich für ein WG Zimmer in einer Genossenschaft, da habe ich eure Anzeige gesehen.
-Mein Name ist Annika Ritter. Ich bin 41 Jahre alt und bin zum Teil im Bereich im New Work selbstständig und habe eine Festanstellung zu 50% im Marketing. Ich mache Yoga und esse gesund und bin lustig und gesellig.
+Mein Name ist Annika [...]. Ich bin 41 Jahre alt und bin zum Teil im Bereich im New Work selbstständig und habe eine Festanstellung zu 50% im Marketing. Ich mache Yoga und esse gesund und bin lustig und gesellig.
 Ich würde mich freuen euch kennen zu lernen.
 Herzlicher Gruss,
 Annika [...]
