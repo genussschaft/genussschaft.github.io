@@ -1,5 +1,5 @@
 ---
-title: Isabella (?)
+title: Isabella (31)
 subtitle: Forscherin Waldökologie und Klimawandel
 layout: "page"
 icon: fa-female
