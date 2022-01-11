@@ -1,6 +1,6 @@
 ---
 title: Isabella (?)
-subtitle: Forschrin Waldökologie und Klimawandel
+subtitle: Forscherin Waldökologie und Klimawandel
 layout: "page"
 icon: fa-female
 order: 3
