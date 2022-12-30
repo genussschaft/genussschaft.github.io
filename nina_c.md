@@ -1,5 +1,5 @@
 ---
-title: Nina (25)
+title: Nina C. (26)
 subtitle: Wissenschaftliche Mitarbeiterin in der nachhaltigen Landwirtschaft
 layout: "page"
 icon: fa-female
