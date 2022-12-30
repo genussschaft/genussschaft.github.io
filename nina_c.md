@@ -1,5 +1,5 @@
 ---
-title: Nina C. (25)
+title: Nina C. (26)
 subtitle: Umweltnaturwissenschaftlerin
 layout: "page"
 icon: fa-female
